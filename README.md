@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eddyabbot
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Javascript
+- 🌬️ If it's windy, I'm kitesurfing 
 
 <!---
 eddyabbot/eddyabbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
